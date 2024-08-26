@@ -1,5 +1,8 @@
-<h1 align="center">Hi there, I'm <a href="https://www.danielaaron.dev" target="_blank">Daniel Aaron</a> <img
-src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+<h1 align="center">
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
+    Hi there, I'm <a href="https://www.danielaaron.dev" target="_blank">Daniel Aaron</a>
+</h1>
+
 
 <h3 align="center">A Shopify Web-Developer from Tennessee</h3>
 
