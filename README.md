@@ -1,6 +1,6 @@
 <h1 align="center">
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
-    Hi there, I'm <a href="https://www.danielaaron.dev" target="_blank">Daniel Aaron</a>
+    Hi there, I'm <a href="https://www.danielaaron.dev" target="_blank">Daniel Sheimo</a>
 </h1>
 
 
